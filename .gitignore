@@ -1,0 +1,18 @@
+# Virtual environment
+.weather_venv/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw data
+data/raw/
+
+# Processed data
+data/processed/
